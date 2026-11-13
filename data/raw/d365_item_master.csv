@@ -1,0 +1,181 @@
+No_,Description,Brand,Item_Category_Code,HS_Code,Net_Weight_KG,Unit_Volume_M3,Base_Cost_EUR,Unit_Price_AED,Gen_Prod_Posting_Group,Created_Date
+SKU-THO-1001,Thomas Pink Tailored Suits & Blazers Item #1,Thomas Pink,Tailored Suits & Blazers,6403.59.00,1.13,0.0014,98.17,1212.48,FINISHED_GOODS,2025-04-20
+SKU-THO-1002,Thomas Pink Tailored Suits & Blazers Item #2,Thomas Pink,Tailored Suits & Blazers,6105.10.00,1.03,0.0021,62.47,629.39,,2025-02-27
+SKU-LUX-1003,LuxFootwear Milano Fine Leather Footwear Item #3,LuxFootwear Milano,Fine Leather Footwear,6105.10.00,3.08,0.0041,248.63,2587.51,FINISHED_GOODS,2025-03-29
+SKU-THO-1004,Thomas Pink Tailored Suits & Blazers Item #4,Thomas Pink,Tailored Suits & Blazers,4202.12.00,0.57,0.0015,333.75,4215.24,,2025-05-19
+SKU-THO-1005,Thomas Pink Luxury Outerwear Item #5,Thomas Pink,Luxury Outerwear,6105.10.00,2.3,0.0061,340.7,4381.12,FINISHED_GOODS,2025-01-19
+SKU-THO-1006,Thomas Pink Silk Ties & Pocket Squares Item #6,Thomas Pink,Silk Ties & Pocket Squares,6403.59.00,3.94,0.0107,457.25,4955.0,,2025-04-05
+SKU-SPO-1007,Sportlux Collection Fine Leather Footwear Item #7,Sportlux Collection,Fine Leather Footwear,6403.59.00,1.0,0.0015,490.23,5864.01,FINISHED_GOODS,2025-05-18
+SKU-SPO-1008,Sportlux Collection Silk Ties & Pocket Squares Item #8,Sportlux Collection,Silk Ties & Pocket Squares,4202.12.00,1.64,0.0049,350.8,4061.98,FINISHED_GOODS,2025-01-16
+SKU-SPO-1009,Sportlux Collection Tailored Suits & Blazers Item #9,Sportlux Collection,Tailored Suits & Blazers,6403.59.00,1.72,0.0019,479.17,5568.99,FINISHED_GOODS,2025-02-25
+SKU-LUX-1010,LuxFootwear Milano Luxury Outerwear Item #10,LuxFootwear Milano,Luxury Outerwear,4202.12.00,0.74,0.0009,400.14,4603.09,,2025-05-31
+SKU-LUX-1011,LuxFootwear Milano Fine Leather Footwear Item #11,LuxFootwear Milano,Fine Leather Footwear,6203.11.00,3.99,0.0051,281.95,3500.21,FINISHED_GOODS,2025-02-10
+SKU-SPO-1012,Sportlux Collection Luxury Outerwear Item #12,Sportlux Collection,Luxury Outerwear,,0.44,0.0008,518.18,5939.52,FINISHED_GOODS,2025-01-31
+SKU-ATE-1013,Atelier Sportlux Fine Leather Footwear Item #13,Atelier Sportlux,Fine Leather Footwear,6105.10.00,1.32,0.0017,51.53,632.42,FINISHED_GOODS,2025-05-10
+SKU-SPO-1014,Sportlux Collection Tailored Suits & Blazers Item #14,Sportlux Collection,Tailored Suits & Blazers,6403.59.00,3.4,0.0069,143.49,1551.19,FINISHED_GOODS,2025-05-20
+SKU-THO-1015,Thomas Pink Fine Leather Footwear Item #15,Thomas Pink,Fine Leather Footwear,4202.12.00,0.27,0.0008,463.0,5895.38,FINISHED_GOODS,2025-03-04
+SKU-THO-1016,Thomas Pink Silk Ties & Pocket Squares Item #16,Thomas Pink,Silk Ties & Pocket Squares,,3.8,0.0045,278.42,2653.54,FINISHED_GOODS,2025-02-03
+SKU-LUX-1017,LuxFootwear Milano Silk Ties & Pocket Squares Item #17,LuxFootwear Milano,Silk Ties & Pocket Squares,6403.59.00,2.21,0.0049,503.25,6613.43,FINISHED_GOODS,2025-03-22
+SKU-LUX-1018,LuxFootwear Milano Fine Leather Footwear Item #18,LuxFootwear Milano,Fine Leather Footwear,4202.12.00,3.62,0.0069,166.52,1583.42,FINISHED_GOODS,2025-05-23
+SKU-SPO-1019,Sportlux Collection Silk Ties & Pocket Squares Item #19,Sportlux Collection,Silk Ties & Pocket Squares,6105.10.00,0.47,0.0011,157.6,2055.54,FINISHED_GOODS,2025-01-20
+SKU-SPO-1020,Sportlux Collection Fine Leather Footwear Item #20,Sportlux Collection,Fine Leather Footwear,4202.12.00,1.01,0.0013,489.69,5699.2,,2025-03-05
+SKU-LUX-1021,LuxFootwear Milano Luxury Outerwear Item #21,LuxFootwear Milano,Luxury Outerwear,6203.11.00,0.56,0.0013,216.52,2374.49,FINISHED_GOODS,2025-01-27
+SKU-THO-1022,Thomas Pink Luxury Outerwear Item #22,Thomas Pink,Luxury Outerwear,6403.59.00,3.24,0.0039,140.05,1609.51,FINISHED_GOODS,2025-04-20
+SKU-SPO-1023,Sportlux Collection Fine Leather Footwear Item #23,Sportlux Collection,Fine Leather Footwear,4202.12.00,1.15,0.0033,258.27,3320.75,FINISHED_GOODS,2025-01-14
+SKU-THO-1024,Thomas Pink Tailored Suits & Blazers Item #24,Thomas Pink,Tailored Suits & Blazers,6203.11.00,0.83,0.0016,150.46,1643.68,FINISHED_GOODS,2025-02-13
+SKU-LUX-1025,LuxFootwear Milano Tailored Suits & Blazers Item #25,LuxFootwear Milano,Tailored Suits & Blazers,4202.12.00,1.21,0.0031,263.85,2906.74,,2025-02-10
+SKU-SPO-1026,Sportlux Collection Fine Leather Footwear Item #26,Sportlux Collection,Fine Leather Footwear,6203.11.00,3.88,0.0084,304.83,3774.25,FINISHED_GOODS,2025-01-14
+SKU-LUX-1027,LuxFootwear Milano Silk Ties & Pocket Squares Item #27,LuxFootwear Milano,Silk Ties & Pocket Squares,6105.10.00,3.85,0.0045,137.34,1612.25,FINISHED_GOODS,2025-04-15
+SKU-THO-1028,Thomas Pink Silk Ties & Pocket Squares Item #28,Thomas Pink,Silk Ties & Pocket Squares,,2.46,0.0055,247.04,2888.25,FINISHED_GOODS,2025-03-09
+SKU-SPO-1029,Sportlux Collection Fine Leather Footwear Item #29,Sportlux Collection,Fine Leather Footwear,6203.11.00,1.21,0.0015,353.39,3943.95,FINISHED_GOODS,2025-01-04
+SKU-LUX-1030,LuxFootwear Milano Tailored Suits & Blazers Item #30,LuxFootwear Milano,Tailored Suits & Blazers,6105.10.00,2.24,0.0045,112.25,1201.73,FINISHED_GOODS,2025-03-05
+SKU-ATE-1031,Atelier Sportlux Fine Leather Footwear Item #31,Atelier Sportlux,Fine Leather Footwear,6203.11.00,1.87,0.0039,192.18,2569.87,FINISHED_GOODS,2025-05-23
+SKU-ATE-1032,Atelier Sportlux Tailored Suits & Blazers Item #32,Atelier Sportlux,Tailored Suits & Blazers,6203.11.00,1.2,0.0033,398.94,3946.67,FINISHED_GOODS,2025-02-24
+SKU-ATE-1033,Atelier Sportlux Silk Ties & Pocket Squares Item #33,Atelier Sportlux,Silk Ties & Pocket Squares,6403.59.00,2.12,0.0032,476.83,4507.64,,2025-03-13
+SKU-THO-1034,Thomas Pink Tailored Suits & Blazers Item #34,Thomas Pink,Tailored Suits & Blazers,6403.59.00,3.13,0.0071,173.12,2138.58,,2025-05-25
+SKU-THO-1035,Thomas Pink Tailored Suits & Blazers Item #35,Thomas Pink,Tailored Suits & Blazers,6105.10.00,3.79,0.009,120.06,1127.52,FINISHED_GOODS,2025-05-31
+SKU-SPO-1036,Sportlux Collection Luxury Outerwear Item #36,Sportlux Collection,Luxury Outerwear,6203.11.00,0.36,0.0006,488.55,6509.06,FINISHED_GOODS,2025-04-03
+SKU-SPO-1037,Sportlux Collection Silk Ties & Pocket Squares Item #37,Sportlux Collection,Silk Ties & Pocket Squares,6105.10.00,1.54,0.0033,461.11,6146.65,FINISHED_GOODS,2025-03-03
+SKU-SPO-1038,Sportlux Collection Silk Ties & Pocket Squares Item #38,Sportlux Collection,Silk Ties & Pocket Squares,4202.12.00,0.29,0.0007,206.13,2710.49,FINISHED_GOODS,2025-03-11
+SKU-SPO-1039,Sportlux Collection Tailored Suits & Blazers Item #39,Sportlux Collection,Tailored Suits & Blazers,4202.12.00,3.51,0.0095,154.54,1957.97,,2025-04-01
+SKU-ATE-1040,Atelier Sportlux Silk Ties & Pocket Squares Item #40,Atelier Sportlux,Silk Ties & Pocket Squares,6203.11.00,0.29,0.0004,204.28,2629.14,FINISHED_GOODS,2025-04-01
+SKU-LUX-1041,LuxFootwear Milano Fine Leather Footwear Item #41,LuxFootwear Milano,Fine Leather Footwear,6105.10.00,0.64,0.0019,133.93,1778.94,FINISHED_GOODS,2025-01-11
+SKU-THO-1042,Thomas Pink Luxury Outerwear Item #42,Thomas Pink,Luxury Outerwear,6403.59.00,2.97,0.0048,334.92,3814.06,,2025-05-29
+SKU-SPO-1043,Sportlux Collection Fine Leather Footwear Item #43,Sportlux Collection,Fine Leather Footwear,6105.10.00,2.89,0.0029,485.02,5578.46,FINISHED_GOODS,2025-04-05
+SKU-LUX-1044,LuxFootwear Milano Tailored Suits & Blazers Item #44,LuxFootwear Milano,Tailored Suits & Blazers,6403.59.00,2.57,0.006,108.57,1413.6,FINISHED_GOODS,2025-04-16
+SKU-ATE-1045,Atelier Sportlux Luxury Outerwear Item #45,Atelier Sportlux,Luxury Outerwear,6403.59.00,2.31,0.0032,362.52,3926.97,FINISHED_GOODS,2025-05-27
+SKU-ATE-1046,Atelier Sportlux Luxury Outerwear Item #46,Atelier Sportlux,Luxury Outerwear,,3.37,0.0054,148.79,1865.85,FINISHED_GOODS,2025-05-01
+SKU-LUX-1047,LuxFootwear Milano Luxury Outerwear Item #47,LuxFootwear Milano,Luxury Outerwear,6203.11.00,2.14,0.0055,501.12,6179.33,FINISHED_GOODS,2025-03-15
+SKU-ATE-1048,Atelier Sportlux Tailored Suits & Blazers Item #48,Atelier Sportlux,Tailored Suits & Blazers,6203.11.00,2.76,0.004,143.59,1341.5,FINISHED_GOODS,2025-05-03
+SKU-THO-1049,Thomas Pink Luxury Outerwear Item #49,Thomas Pink,Luxury Outerwear,4202.12.00,3.57,0.0077,387.62,4206.73,,2025-03-05
+SKU-SPO-1050,Sportlux Collection Tailored Suits & Blazers Item #50,Sportlux Collection,Tailored Suits & Blazers,6105.10.00,3.16,0.0045,427.93,5204.84,,2025-01-14
+SKU-SPO-1051,Sportlux Collection Tailored Suits & Blazers Item #51,Sportlux Collection,Tailored Suits & Blazers,4202.12.00,0.71,0.0014,299.63,3471.96,FINISHED_GOODS,2025-04-25
+SKU-LUX-1052,LuxFootwear Milano Luxury Outerwear Item #52,LuxFootwear Milano,Luxury Outerwear,6203.11.00,3.03,0.0059,171.82,1766.04,FINISHED_GOODS,2025-05-15
+SKU-LUX-1053,LuxFootwear Milano Silk Ties & Pocket Squares Item #53,LuxFootwear Milano,Silk Ties & Pocket Squares,6403.59.00,1.87,0.0045,160.21,1706.33,FINISHED_GOODS,2025-02-06
+SKU-SPO-1054,Sportlux Collection Silk Ties & Pocket Squares Item #54,Sportlux Collection,Silk Ties & Pocket Squares,4202.12.00,2.84,0.0069,80.19,878.23,,2025-04-18
+SKU-THO-1055,Thomas Pink Silk Ties & Pocket Squares Item #55,Thomas Pink,Silk Ties & Pocket Squares,4202.12.00,1.68,0.0043,494.65,4611.14,,2025-05-04
+SKU-THO-1056,Thomas Pink Fine Leather Footwear Item #56,Thomas Pink,Fine Leather Footwear,6403.59.00,3.06,0.0083,498.11,5479.15,FINISHED_GOODS,2025-05-06
+SKU-SPO-1057,Sportlux Collection Fine Leather Footwear Item #57,Sportlux Collection,Fine Leather Footwear,4202.12.00,2.05,0.0036,364.37,4588.22,FINISHED_GOODS,2025-05-01
+SKU-SPO-1058,Sportlux Collection Tailored Suits & Blazers Item #58,Sportlux Collection,Tailored Suits & Blazers,4202.12.00,2.45,0.0057,89.46,987.65,,2025-02-17
+SKU-THO-1059,Thomas Pink Fine Leather Footwear Item #59,Thomas Pink,Fine Leather Footwear,4202.12.00,1.44,0.0027,208.63,2698.52,FINISHED_GOODS,2025-04-19
+SKU-ATE-1060,Atelier Sportlux Tailored Suits & Blazers Item #60,Atelier Sportlux,Tailored Suits & Blazers,4202.12.00,0.27,0.0006,519.96,5568.68,FINISHED_GOODS,2025-01-12
+SKU-THO-1061,Thomas Pink Silk Ties & Pocket Squares Item #61,Thomas Pink,Silk Ties & Pocket Squares,6203.11.00,3.39,0.0076,162.12,1820.44,FINISHED_GOODS,2025-05-26
+SKU-SPO-1062,Sportlux Collection Luxury Outerwear Item #62,Sportlux Collection,Luxury Outerwear,6403.59.00,3.11,0.0042,335.41,4152.81,FINISHED_GOODS,2025-02-12
+SKU-ATE-1063,Atelier Sportlux Tailored Suits & Blazers Item #63,Atelier Sportlux,Tailored Suits & Blazers,,0.3,0.0005,368.35,4885.91,,2025-02-21
+SKU-THO-1064,Thomas Pink Silk Ties & Pocket Squares Item #64,Thomas Pink,Silk Ties & Pocket Squares,6105.10.00,2.85,0.0046,371.6,4690.79,FINISHED_GOODS,2025-03-31
+SKU-LUX-1065,LuxFootwear Milano Fine Leather Footwear Item #65,LuxFootwear Milano,Fine Leather Footwear,6105.10.00,2.12,0.0036,449.3,5703.32,FINISHED_GOODS,2025-04-22
+SKU-ATE-1066,Atelier Sportlux Luxury Outerwear Item #66,Atelier Sportlux,Luxury Outerwear,6203.11.00,1.85,0.0046,503.77,5226.28,,2025-05-01
+SKU-LUX-1067,LuxFootwear Milano Fine Leather Footwear Item #67,LuxFootwear Milano,Fine Leather Footwear,6403.59.00,3.44,0.0092,90.73,1174.3,FINISHED_GOODS,2025-04-30
+SKU-LUX-1068,LuxFootwear Milano Fine Leather Footwear Item #68,LuxFootwear Milano,Fine Leather Footwear,6105.10.00,2.08,0.0034,279.15,2995.35,FINISHED_GOODS,2025-03-30
+SKU-ATE-1069,Atelier Sportlux Fine Leather Footwear Item #69,Atelier Sportlux,Fine Leather Footwear,,0.24,0.0007,90.24,1106.73,,2025-05-24
+SKU-SPO-1070,Sportlux Collection Luxury Outerwear Item #70,Sportlux Collection,Luxury Outerwear,4202.12.00,1.9,0.002,188.29,2059.61,FINISHED_GOODS,2025-03-21
+SKU-ATE-1071,Atelier Sportlux Luxury Outerwear Item #71,Atelier Sportlux,Luxury Outerwear,,2.22,0.0041,400.59,4258.0,,2025-03-12
+SKU-ATE-1072,Atelier Sportlux Fine Leather Footwear Item #72,Atelier Sportlux,Fine Leather Footwear,6203.11.00,0.66,0.0009,106.19,1220.19,FINISHED_GOODS,2025-02-20
+SKU-SPO-1073,Sportlux Collection Luxury Outerwear Item #73,Sportlux Collection,Luxury Outerwear,6403.59.00,2.95,0.0087,296.58,3092.91,FINISHED_GOODS,2025-02-20
+SKU-ATE-1074,Atelier Sportlux Silk Ties & Pocket Squares Item #74,Atelier Sportlux,Silk Ties & Pocket Squares,6403.59.00,0.88,0.0009,301.04,3128.44,FINISHED_GOODS,2025-05-23
+SKU-ATE-1075,Atelier Sportlux Silk Ties & Pocket Squares Item #75,Atelier Sportlux,Silk Ties & Pocket Squares,4202.12.00,0.59,0.0006,183.64,2066.06,FINISHED_GOODS,2025-02-18
+SKU-THO-1076,Thomas Pink Fine Leather Footwear Item #76,Thomas Pink,Fine Leather Footwear,4202.12.00,0.63,0.0007,281.12,3278.84,FINISHED_GOODS,2025-02-09
+SKU-SPO-1077,Sportlux Collection Fine Leather Footwear Item #77,Sportlux Collection,Fine Leather Footwear,6105.10.00,3.98,0.0049,409.29,4824.11,FINISHED_GOODS,2025-05-15
+SKU-LUX-1078,LuxFootwear Milano Luxury Outerwear Item #78,LuxFootwear Milano,Luxury Outerwear,4202.12.00,1.33,0.0029,251.55,2925.08,FINISHED_GOODS,2025-01-27
+SKU-SPO-1079,Sportlux Collection Silk Ties & Pocket Squares Item #79,Sportlux Collection,Silk Ties & Pocket Squares,6403.59.00,2.71,0.0036,131.69,1258.33,FINISHED_GOODS,2025-04-16
+SKU-LUX-1080,LuxFootwear Milano Luxury Outerwear Item #80,LuxFootwear Milano,Luxury Outerwear,6403.59.00,0.32,0.0005,182.88,2350.07,FINISHED_GOODS,2025-03-02
+SKU-ATE-1081,Atelier Sportlux Silk Ties & Pocket Squares Item #81,Atelier Sportlux,Silk Ties & Pocket Squares,4202.12.00,0.64,0.0009,120.03,1242.99,FINISHED_GOODS,2025-01-20
+SKU-THO-1082,Thomas Pink Silk Ties & Pocket Squares Item #82,Thomas Pink,Silk Ties & Pocket Squares,6403.59.00,2.46,0.0065,482.96,5353.34,,2025-03-20
+SKU-LUX-1083,LuxFootwear Milano Fine Leather Footwear Item #83,LuxFootwear Milano,Fine Leather Footwear,,2.25,0.0042,331.08,4295.95,FINISHED_GOODS,2025-03-07
+SKU-THO-1084,Thomas Pink Tailored Suits & Blazers Item #84,Thomas Pink,Tailored Suits & Blazers,6203.11.00,3.86,0.0103,320.34,4239.16,FINISHED_GOODS,2025-05-29
+SKU-THO-1085,Thomas Pink Silk Ties & Pocket Squares Item #85,Thomas Pink,Silk Ties & Pocket Squares,4202.12.00,2.17,0.0041,180.73,2426.69,,2025-05-07
+SKU-THO-1086,Thomas Pink Luxury Outerwear Item #86,Thomas Pink,Luxury Outerwear,6403.59.00,1.75,0.0029,99.16,983.22,,2025-05-08
+SKU-ATE-1087,Atelier Sportlux Luxury Outerwear Item #87,Atelier Sportlux,Luxury Outerwear,,0.34,0.0004,168.63,1640.24,,2025-05-13
+SKU-THO-1088,Thomas Pink Luxury Outerwear Item #88,Thomas Pink,Luxury Outerwear,4202.12.00,0.41,0.0008,342.64,3883.37,,2025-01-15
+SKU-SPO-1089,Sportlux Collection Fine Leather Footwear Item #89,Sportlux Collection,Fine Leather Footwear,,0.7,0.0011,464.0,5231.97,FINISHED_GOODS,2025-03-04
+SKU-SPO-1090,Sportlux Collection Fine Leather Footwear Item #90,Sportlux Collection,Fine Leather Footwear,,0.25,0.0005,155.61,1987.75,FINISHED_GOODS,2025-04-30
+SKU-THO-1091,Thomas Pink Silk Ties & Pocket Squares Item #91,Thomas Pink,Silk Ties & Pocket Squares,4202.12.00,3.74,0.0059,381.54,4191.24,,2025-05-02
+SKU-SPO-1092,Sportlux Collection Luxury Outerwear Item #92,Sportlux Collection,Luxury Outerwear,,0.75,0.001,331.71,4104.72,FINISHED_GOODS,2025-01-19
+SKU-ATE-1093,Atelier Sportlux Luxury Outerwear Item #93,Atelier Sportlux,Luxury Outerwear,6403.59.00,3.75,0.0076,435.66,4543.03,FINISHED_GOODS,2025-05-30
+SKU-LUX-1094,LuxFootwear Milano Silk Ties & Pocket Squares Item #94,LuxFootwear Milano,Silk Ties & Pocket Squares,4202.12.00,2.25,0.0038,309.4,3565.03,,2025-03-25
+SKU-SPO-1095,Sportlux Collection Silk Ties & Pocket Squares Item #95,Sportlux Collection,Silk Ties & Pocket Squares,,1.66,0.0045,243.06,2570.69,,2025-04-09
+SKU-LUX-1096,LuxFootwear Milano Silk Ties & Pocket Squares Item #96,LuxFootwear Milano,Silk Ties & Pocket Squares,4202.12.00,3.87,0.0048,503.72,5356.75,FINISHED_GOODS,2025-04-24
+SKU-THO-1097,Thomas Pink Luxury Outerwear Item #97,Thomas Pink,Luxury Outerwear,6105.10.00,2.95,0.0054,357.75,3537.55,,2025-03-10
+SKU-ATE-1098,Atelier Sportlux Luxury Outerwear Item #98,Atelier Sportlux,Luxury Outerwear,6105.10.00,3.44,0.0093,453.89,4918.37,FINISHED_GOODS,2025-05-06
+SKU-THO-1099,Thomas Pink Tailored Suits & Blazers Item #99,Thomas Pink,Tailored Suits & Blazers,6203.11.00,2.6,0.0074,518.79,6420.76,,2025-01-27
+SKU-THO-1100,Thomas Pink Luxury Outerwear Item #100,Thomas Pink,Luxury Outerwear,6203.11.00,2.84,0.008,71.62,901.25,FINISHED_GOODS,2025-04-03
+SKU-ATE-1101,Atelier Sportlux Luxury Outerwear Item #101,Atelier Sportlux,Luxury Outerwear,6203.11.00,1.13,0.0021,370.45,3703.11,FINISHED_GOODS,2025-01-22
+SKU-LUX-1102,LuxFootwear Milano Silk Ties & Pocket Squares Item #102,LuxFootwear Milano,Silk Ties & Pocket Squares,4202.12.00,3.67,0.0047,266.74,2749.21,FINISHED_GOODS,2025-01-04
+SKU-LUX-1103,LuxFootwear Milano Fine Leather Footwear Item #103,LuxFootwear Milano,Fine Leather Footwear,,0.8,0.0015,212.42,2486.97,,2025-03-07
+SKU-LUX-1104,LuxFootwear Milano Fine Leather Footwear Item #104,LuxFootwear Milano,Fine Leather Footwear,6203.11.00,4.0,0.0108,100.13,1085.58,FINISHED_GOODS,2025-05-29
+SKU-ATE-1105,Atelier Sportlux Fine Leather Footwear Item #105,Atelier Sportlux,Fine Leather Footwear,6105.10.00,3.92,0.0091,179.01,2079.54,FINISHED_GOODS,2025-05-09
+SKU-ATE-1106,Atelier Sportlux Silk Ties & Pocket Squares Item #106,Atelier Sportlux,Silk Ties & Pocket Squares,,3.25,0.0047,139.36,1434.38,FINISHED_GOODS,2025-01-26
+SKU-THO-1107,Thomas Pink Fine Leather Footwear Item #107,Thomas Pink,Fine Leather Footwear,4202.12.00,0.33,0.0006,111.76,1459.63,FINISHED_GOODS,2025-04-18
+SKU-SPO-1108,Sportlux Collection Silk Ties & Pocket Squares Item #108,Sportlux Collection,Silk Ties & Pocket Squares,6203.11.00,3.19,0.0088,221.95,2518.59,FINISHED_GOODS,2025-02-13
+SKU-ATE-1109,Atelier Sportlux Luxury Outerwear Item #109,Atelier Sportlux,Luxury Outerwear,6403.59.00,3.04,0.0051,104.13,1383.28,FINISHED_GOODS,2025-02-28
+SKU-LUX-1110,LuxFootwear Milano Fine Leather Footwear Item #110,LuxFootwear Milano,Fine Leather Footwear,6105.10.00,3.2,0.0033,302.19,3369.45,FINISHED_GOODS,2025-05-31
+SKU-LUX-1111,LuxFootwear Milano Fine Leather Footwear Item #111,LuxFootwear Milano,Fine Leather Footwear,6105.10.00,2.76,0.0054,341.19,4504.16,FINISHED_GOODS,2025-02-27
+SKU-THO-1112,Thomas Pink Luxury Outerwear Item #112,Thomas Pink,Luxury Outerwear,6403.59.00,2.67,0.0033,71.31,670.05,,2025-01-31
+SKU-THO-1113,Thomas Pink Silk Ties & Pocket Squares Item #113,Thomas Pink,Silk Ties & Pocket Squares,,0.72,0.0014,365.13,4513.44,,2025-02-10
+SKU-LUX-1114,LuxFootwear Milano Tailored Suits & Blazers Item #114,LuxFootwear Milano,Tailored Suits & Blazers,4202.12.00,2.54,0.0073,181.48,2203.02,FINISHED_GOODS,2025-04-25
+SKU-LUX-1115,LuxFootwear Milano Silk Ties & Pocket Squares Item #115,LuxFootwear Milano,Silk Ties & Pocket Squares,6403.59.00,0.58,0.0014,305.9,4082.83,FINISHED_GOODS,2025-01-17
+SKU-LUX-1116,LuxFootwear Milano Fine Leather Footwear Item #116,LuxFootwear Milano,Fine Leather Footwear,6203.11.00,3.88,0.0112,437.37,4209.7,FINISHED_GOODS,2025-01-07
+SKU-THO-1117,Thomas Pink Fine Leather Footwear Item #117,Thomas Pink,Fine Leather Footwear,6203.11.00,3.96,0.0102,146.45,1863.61,FINISHED_GOODS,2025-02-26
+SKU-SPO-1118,Sportlux Collection Fine Leather Footwear Item #118,Sportlux Collection,Fine Leather Footwear,6203.11.00,3.2,0.007,180.32,2411.4,FINISHED_GOODS,2025-05-20
+SKU-ATE-1119,Atelier Sportlux Silk Ties & Pocket Squares Item #119,Atelier Sportlux,Silk Ties & Pocket Squares,6105.10.00,2.71,0.0028,56.98,715.55,FINISHED_GOODS,2025-03-25
+SKU-THO-1120,Thomas Pink Silk Ties & Pocket Squares Item #120,Thomas Pink,Silk Ties & Pocket Squares,6403.59.00,0.4,0.001,297.26,3677.64,,2025-04-26
+SKU-ATE-1121,Atelier Sportlux Tailored Suits & Blazers Item #121,Atelier Sportlux,Tailored Suits & Blazers,4202.12.00,2.11,0.0061,70.38,881.83,FINISHED_GOODS,2025-04-29
+SKU-THO-1122,Thomas Pink Tailored Suits & Blazers Item #122,Thomas Pink,Tailored Suits & Blazers,4202.12.00,3.42,0.0063,100.74,1232.26,,2025-01-20
+SKU-THO-1123,Thomas Pink Fine Leather Footwear Item #123,Thomas Pink,Fine Leather Footwear,,0.76,0.001,343.43,4017.63,FINISHED_GOODS,2025-04-09
+SKU-ATE-1124,Atelier Sportlux Luxury Outerwear Item #124,Atelier Sportlux,Luxury Outerwear,,2.5,0.003,379.84,4870.21,FINISHED_GOODS,2025-04-22
+SKU-LUX-1125,LuxFootwear Milano Silk Ties & Pocket Squares Item #125,LuxFootwear Milano,Silk Ties & Pocket Squares,4202.12.00,1.49,0.0028,245.52,2366.66,,2025-03-23
+SKU-ATE-1126,Atelier Sportlux Fine Leather Footwear Item #126,Atelier Sportlux,Fine Leather Footwear,6203.11.00,2.81,0.0055,92.88,891.51,,2025-01-26
+SKU-ATE-1127,Atelier Sportlux Silk Ties & Pocket Squares Item #127,Atelier Sportlux,Silk Ties & Pocket Squares,,0.43,0.0013,313.99,3784.85,,2025-04-02
+SKU-LUX-1128,LuxFootwear Milano Tailored Suits & Blazers Item #128,LuxFootwear Milano,Tailored Suits & Blazers,6403.59.00,2.48,0.0042,321.62,3259.14,,2025-02-28
+SKU-THO-1129,Thomas Pink Fine Leather Footwear Item #129,Thomas Pink,Fine Leather Footwear,,1.6,0.004,319.83,4039.56,FINISHED_GOODS,2025-03-11
+SKU-THO-1130,Thomas Pink Silk Ties & Pocket Squares Item #130,Thomas Pink,Silk Ties & Pocket Squares,6403.59.00,2.87,0.0046,209.72,1943.19,FINISHED_GOODS,2025-05-26
+SKU-LUX-1131,LuxFootwear Milano Tailored Suits & Blazers Item #131,LuxFootwear Milano,Tailored Suits & Blazers,6203.11.00,3.02,0.0089,93.13,1068.02,,2025-04-19
+SKU-LUX-1132,LuxFootwear Milano Fine Leather Footwear Item #132,LuxFootwear Milano,Fine Leather Footwear,6203.11.00,1.61,0.0039,415.11,4825.19,FINISHED_GOODS,2025-01-15
+SKU-SPO-1133,Sportlux Collection Silk Ties & Pocket Squares Item #133,Sportlux Collection,Silk Ties & Pocket Squares,,0.39,0.0005,258.26,2846.25,,2025-04-18
+SKU-ATE-1134,Atelier Sportlux Silk Ties & Pocket Squares Item #134,Atelier Sportlux,Silk Ties & Pocket Squares,,0.63,0.0012,183.13,2213.98,,2025-05-16
+SKU-ATE-1135,Atelier Sportlux Tailored Suits & Blazers Item #135,Atelier Sportlux,Tailored Suits & Blazers,6203.11.00,1.7,0.0037,53.61,563.22,FINISHED_GOODS,2025-02-06
+SKU-ATE-1136,Atelier Sportlux Fine Leather Footwear Item #136,Atelier Sportlux,Fine Leather Footwear,6403.59.00,0.66,0.0013,252.41,2469.22,FINISHED_GOODS,2025-05-10
+SKU-ATE-1137,Atelier Sportlux Tailored Suits & Blazers Item #137,Atelier Sportlux,Tailored Suits & Blazers,4202.12.00,3.47,0.0038,58.81,770.93,FINISHED_GOODS,2025-05-29
+SKU-LUX-1138,LuxFootwear Milano Luxury Outerwear Item #138,LuxFootwear Milano,Luxury Outerwear,4202.12.00,1.3,0.0024,504.11,5021.88,,2025-04-04
+SKU-THO-1139,Thomas Pink Luxury Outerwear Item #139,Thomas Pink,Luxury Outerwear,6105.10.00,1.12,0.0024,296.26,3229.89,FINISHED_GOODS,2025-03-29
+SKU-SPO-1140,Sportlux Collection Fine Leather Footwear Item #140,Sportlux Collection,Fine Leather Footwear,6203.11.00,0.49,0.0011,299.38,3010.08,FINISHED_GOODS,2025-04-01
+SKU-SPO-1141,Sportlux Collection Silk Ties & Pocket Squares Item #141,Sportlux Collection,Silk Ties & Pocket Squares,6105.10.00,0.76,0.0011,333.13,4141.77,FINISHED_GOODS,2025-02-16
+SKU-LUX-1142,LuxFootwear Milano Luxury Outerwear Item #142,LuxFootwear Milano,Luxury Outerwear,,3.09,0.0059,484.35,5623.72,FINISHED_GOODS,2025-03-23
+SKU-SPO-1143,Sportlux Collection Luxury Outerwear Item #143,Sportlux Collection,Luxury Outerwear,6105.10.00,1.98,0.0045,424.27,4974.13,FINISHED_GOODS,2025-05-11
+SKU-THO-1144,Thomas Pink Fine Leather Footwear Item #144,Thomas Pink,Fine Leather Footwear,4202.12.00,1.92,0.0021,440.9,4216.0,FINISHED_GOODS,2025-05-11
+SKU-LUX-1145,LuxFootwear Milano Luxury Outerwear Item #145,LuxFootwear Milano,Luxury Outerwear,,2.31,0.006,471.06,5242.37,FINISHED_GOODS,2025-03-25
+SKU-LUX-1146,LuxFootwear Milano Silk Ties & Pocket Squares Item #146,LuxFootwear Milano,Silk Ties & Pocket Squares,6105.10.00,1.91,0.005,443.57,5928.77,FINISHED_GOODS,2025-05-11
+SKU-SPO-1147,Sportlux Collection Tailored Suits & Blazers Item #147,Sportlux Collection,Tailored Suits & Blazers,6203.11.00,2.89,0.0086,296.31,3496.81,FINISHED_GOODS,2025-04-07
+SKU-ATE-1148,Atelier Sportlux Luxury Outerwear Item #148,Atelier Sportlux,Luxury Outerwear,4202.12.00,3.14,0.0074,74.61,887.09,FINISHED_GOODS,2025-01-18
+SKU-ATE-1149,Atelier Sportlux Tailored Suits & Blazers Item #149,Atelier Sportlux,Tailored Suits & Blazers,,2.78,0.0044,390.15,4680.85,FINISHED_GOODS,2025-03-28
+SKU-THO-1150,Thomas Pink Silk Ties & Pocket Squares Item #150,Thomas Pink,Silk Ties & Pocket Squares,6403.59.00,1.38,0.0032,361.2,3533.11,FINISHED_GOODS,2025-03-22
+SKU-LUX-1151,LuxFootwear Milano Fine Leather Footwear Item #151,LuxFootwear Milano,Fine Leather Footwear,6203.11.00,2.75,0.0073,397.22,4813.81,FINISHED_GOODS,2025-04-20
+SKU-ATE-1152,Atelier Sportlux Tailored Suits & Blazers Item #152,Atelier Sportlux,Tailored Suits & Blazers,6403.59.00,1.37,0.004,210.61,2623.75,FINISHED_GOODS,2025-02-28
+SKU-SPO-1153,Sportlux Collection Silk Ties & Pocket Squares Item #153,Sportlux Collection,Silk Ties & Pocket Squares,6105.10.00,1.32,0.0034,288.61,3321.05,FINISHED_GOODS,2025-03-29
+SKU-SPO-1154,Sportlux Collection Luxury Outerwear Item #154,Sportlux Collection,Luxury Outerwear,6203.11.00,0.82,0.0022,412.42,5212.16,FINISHED_GOODS,2025-04-24
+SKU-THO-1155,Thomas Pink Luxury Outerwear Item #155,Thomas Pink,Luxury Outerwear,6403.59.00,2.77,0.0041,258.77,2700.7,,2025-03-02
+SKU-SPO-1156,Sportlux Collection Fine Leather Footwear Item #156,Sportlux Collection,Fine Leather Footwear,4202.12.00,3.64,0.0051,368.8,4291.27,,2025-04-30
+SKU-ATE-1157,Atelier Sportlux Luxury Outerwear Item #157,Atelier Sportlux,Luxury Outerwear,,2.2,0.0065,433.94,5469.94,FINISHED_GOODS,2025-03-07
+SKU-THO-1158,Thomas Pink Luxury Outerwear Item #158,Thomas Pink,Luxury Outerwear,6403.59.00,2.31,0.0028,447.57,5735.56,FINISHED_GOODS,2025-01-23
+SKU-SPO-1159,Sportlux Collection Fine Leather Footwear Item #159,Sportlux Collection,Fine Leather Footwear,4202.12.00,3.64,0.0047,255.61,3377.87,FINISHED_GOODS,2025-04-27
+SKU-ATE-1160,Atelier Sportlux Tailored Suits & Blazers Item #160,Atelier Sportlux,Tailored Suits & Blazers,4202.12.00,0.4,0.0008,160.82,2157.72,FINISHED_GOODS,2025-02-28
+SKU-THO-1161,Thomas Pink Fine Leather Footwear Item #161,Thomas Pink,Fine Leather Footwear,6105.10.00,3.39,0.0078,421.95,4142.67,FINISHED_GOODS,2025-05-02
+SKU-SPO-1162,Sportlux Collection Luxury Outerwear Item #162,Sportlux Collection,Luxury Outerwear,4202.12.00,2.54,0.0071,58.93,597.89,FINISHED_GOODS,2025-05-22
+SKU-LUX-1163,LuxFootwear Milano Tailored Suits & Blazers Item #163,LuxFootwear Milano,Tailored Suits & Blazers,6403.59.00,1.1,0.0014,162.07,1932.46,,2025-01-18
+SKU-THO-1164,Thomas Pink Luxury Outerwear Item #164,Thomas Pink,Luxury Outerwear,,2.24,0.0051,320.27,3925.83,FINISHED_GOODS,2025-04-21
+SKU-THO-1165,Thomas Pink Fine Leather Footwear Item #165,Thomas Pink,Fine Leather Footwear,6203.11.00,2.37,0.0033,364.06,4164.35,FINISHED_GOODS,2025-01-19
+SKU-THO-1166,Thomas Pink Luxury Outerwear Item #166,Thomas Pink,Luxury Outerwear,4202.12.00,0.37,0.0007,225.45,2790.78,FINISHED_GOODS,2025-01-19
+SKU-ATE-1167,Atelier Sportlux Silk Ties & Pocket Squares Item #167,Atelier Sportlux,Silk Ties & Pocket Squares,6105.10.00,3.13,0.0077,206.28,1944.44,FINISHED_GOODS,2025-02-15
+SKU-LUX-1168,LuxFootwear Milano Luxury Outerwear Item #168,LuxFootwear Milano,Luxury Outerwear,6203.11.00,3.28,0.0037,414.81,4630.21,FINISHED_GOODS,2025-02-22
+SKU-THO-1169,Thomas Pink Silk Ties & Pocket Squares Item #169,Thomas Pink,Silk Ties & Pocket Squares,6105.10.00,1.4,0.0023,237.17,3003.69,,2025-03-07
+SKU-THO-1170,Thomas Pink Silk Ties & Pocket Squares Item #170,Thomas Pink,Silk Ties & Pocket Squares,6403.59.00,1.56,0.004,456.93,4859.03,FINISHED_GOODS,2025-04-06
+SKU-LUX-1171,LuxFootwear Milano Luxury Outerwear Item #171,LuxFootwear Milano,Luxury Outerwear,4202.12.00,3.6,0.0064,507.65,5748.66,,2025-04-06
+SKU-ATE-1172,Atelier Sportlux Tailored Suits & Blazers Item #172,Atelier Sportlux,Tailored Suits & Blazers,4202.12.00,0.5,0.0011,436.5,5033.28,FINISHED_GOODS,2025-01-28
+SKU-THO-1173,Thomas Pink Fine Leather Footwear Item #173,Thomas Pink,Fine Leather Footwear,6403.59.00,1.36,0.003,250.27,3037.53,FINISHED_GOODS,2025-04-26
+SKU-THO-1174,Thomas Pink Fine Leather Footwear Item #174,Thomas Pink,Fine Leather Footwear,,3.99,0.0062,510.61,6750.88,FINISHED_GOODS,2025-04-15
+SKU-ATE-1175,Atelier Sportlux Silk Ties & Pocket Squares Item #175,Atelier Sportlux,Silk Ties & Pocket Squares,6105.10.00,0.74,0.0016,417.22,3916.09,FINISHED_GOODS,2025-03-03
+SKU-ATE-1176,Atelier Sportlux Fine Leather Footwear Item #176,Atelier Sportlux,Fine Leather Footwear,4202.12.00,3.81,0.0041,122.12,1359.16,FINISHED_GOODS,2025-04-07
+SKU-LUX-1177,LuxFootwear Milano Tailored Suits & Blazers Item #177,LuxFootwear Milano,Tailored Suits & Blazers,,0.72,0.0012,197.76,2058.78,FINISHED_GOODS,2025-01-08
+SKU-SPO-1178,Sportlux Collection Luxury Outerwear Item #178,Sportlux Collection,Luxury Outerwear,,1.67,0.0035,173.04,1788.06,,2025-02-25
+SKU-ATE-1179,Atelier Sportlux Luxury Outerwear Item #179,Atelier Sportlux,Luxury Outerwear,6203.11.00,0.67,0.0018,262.46,3415.77,,2025-01-24
+SKU-ATE-1180,Atelier Sportlux Fine Leather Footwear Item #180,Atelier Sportlux,Fine Leather Footwear,6105.10.00,2.29,0.0036,190.98,1890.99,FINISHED_GOODS,2025-04-04
