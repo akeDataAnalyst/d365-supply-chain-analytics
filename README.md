@@ -1,4 +1,5 @@
  # **D365 Supply Chain & Operations Command Center**
+ [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://d365-supply-chain-analytics-jz2fmyf98bmioadljozjos.streamlit.app/)
 
 An enterprise-grade supply chain analytics platform and interactive executive dashboard built for luxury fashion, apparel, and footwear distribution across the Dubai and GCC trade corridor. This system models Microsoft Dynamics 365 Business Central relational schemas to optimize fulfillment, automate pre-distribution master data gating, and eliminate 3PL carrier freight overcharges.
 
