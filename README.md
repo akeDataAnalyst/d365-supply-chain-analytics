@@ -5,7 +5,7 @@ An enterprise-grade supply chain analytics platform and interactive executive da
 ---
 
 ## **Project Description**
-SPORTLUX operates a complex multichannel distribution network spanning retail flagships, B2B wholesale hubs, and direct-to-consumer (D2C) e-commerce across Dubai, Riyadh, and regional GCC markets. This repository provides an end-to-end analytics solution—combining a synthetic D365 ERP data generator, an in-memory DuckDB SQL analytical engine, automated auditing modules, and an interactive Streamlit command center.
+SPORTLUX operates a complex multichannel distribution network spanning retail flagships, B2B wholesale hubs, and direct-to-consumer (D2C) e-commerce across Dubai, Riyadh, and regional GCC markets. This repository provides an end-to-end analytics solution - combining a synthetic D365 ERP data generator, an in-memory DuckDB SQL analytical engine, automated auditing modules, and an interactive Streamlit command center.
 
 ---
 
